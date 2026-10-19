@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Handling: Unclassified — public
+# SPDX-License-Identifier: Apache-2.0
 """Regenerate the boundary red-team corpus — schema-clean fixtures.
 
 Every fixture is fictional: invented values only, example.org domain reserved
